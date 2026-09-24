@@ -1,10 +1,10 @@
 # Kiryl Fursau — Portfolio site
 
-A single-page, interactive CV/portfolio in a Revolut-inspired style (strict monochrome, Aeonik-style display type, pill buttons, flat design). Pure **HTML + CSS + vanilla JS** — no build step, no framework — so it runs as-is on GitHub Pages.
+A single-page, interactive CV/portfolio in a strict monochrome style (Aeonik-style display type, pill buttons, flat design). Pure **HTML + CSS + vanilla JS** — no build step, no framework — so it runs as-is on GitHub Pages.
 
 ## Files
 - `index.html` — all content/sections
-- `styles.css` — Revolut-style design system + animations
+- `styles.css` — design system + animations
 - `script.js` — scroll reveals, animated counters, and ReactBits-style effects (BlurText, Magnet, SpotlightCard) recreated in vanilla JS
 - `Kiryl_Fursau_Resume.pdf` — linked from the “Download CV” buttons
 
